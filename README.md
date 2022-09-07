@@ -1,4 +1,4 @@
-# ME 701 -- Homework 1 -- Your Name Here
+# ME 701 -- Homework 1 -- Leonard McFadden II
 
 ## Instructions
 
@@ -26,12 +26,7 @@ describe anything already discussed in class (e.g., the LibreOffice suite
 or Octave).
 
 ### Solution
-
-Write your solution here.  Note, in the past, we've used a full, graphical
-version of Linux.  With WSL, you probably don't have as direct a path for
-exploring software in the Software Manager.  However, use the power of
-Google (or AskJeeves) to explore what sorts of open-source software is out
-there for technical or other applications.
+JAWS is a program that is meant to help people who are blind or interact with the screen through speech or braille text. I thought this was cool because it helps people who are visually impaired as well as I first heard about this program in high school before I was really interested in software, programing, or tech in general.![image](https://user-images.githubusercontent.com/112417404/188932388-6078c66d-c843-4c4f-ad7d-be511e31eebf.png)
 
 
 ## Problem 3 -- Your CPU
@@ -47,11 +42,9 @@ using `ls > directory_contents.txt` to dump the contents of a directory to a fil
 ### Solution
 
 To display CPU information, I used the following command:
+I couldnt get the command to work but when I looked it up I was told to use the following commands 
+sysctl -a!
 
-```bash
-ls -al # <--- that's not right, but it shows you how to include
-       #      code in Markdown!
-```
 
 ## Problem 4 -- Resource Hogs
 
@@ -62,7 +55,7 @@ amount of (1) processing and (2) memory.  Describe your command(s)
 in your writeup.
 
 ### Solution
-
+Press CTRL+HOME
 
 
 ## Problem 5 -- `bash`
@@ -74,3 +67,4 @@ Where is `bash` located on your Linux system?  And what version of
 determine this information.
 
 ### Solution
+For Mac to find bash I go to /usr/local/bin and I have v5.
